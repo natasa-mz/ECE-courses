@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ECE-courses/static/css/main.e6c13ad2.css",
+    "main.js": "/ECE-courses/static/js/main.6bb03255.js",
+    "static/js/453.e9e7ec89.chunk.js": "/ECE-courses/static/js/453.e9e7ec89.chunk.js",
+    "index.html": "/ECE-courses/index.html",
+    "main.e6c13ad2.css.map": "/ECE-courses/static/css/main.e6c13ad2.css.map",
+    "main.6bb03255.js.map": "/ECE-courses/static/js/main.6bb03255.js.map",
+    "453.e9e7ec89.chunk.js.map": "/ECE-courses/static/js/453.e9e7ec89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6bb03255.js"
+  ]
+}
